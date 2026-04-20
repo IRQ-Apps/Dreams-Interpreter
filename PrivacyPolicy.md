@@ -77,7 +77,7 @@ Uninstalling the app removes all locally stored data from your device.
 ## Contact
 
 If you have questions about this privacy policy, please contact:
-**[your-email@example.com]**
+**info@reef-q.iq**
 
 ---
 
