@@ -1,99 +1,78 @@
-سياسة الخصوصية — أحلامي AI / مفسر الأحلام
+سياسة الخصوصية — احلامي AI / مفسّر الأحلام
 آخر تحديث: أبريل 2026
-
 نظرة عامة
-تطبيق مفسر الأحلام ("التطبيق") هو تطبيق لتفسير الأحلام وفق المنهج الإسلامي ومدعوم بالذكاء الاصطناعي. توضح هذه السياسة البيانات التي نقوم بجمعها، وكيفية استخدامها، وحقوقك.
-
+تطبيق احلامي AI ("التطبيق") هو تطبيق لتفسير الأحلام وفق المنظور الإسلامي، مدعوم بتقنيات الذكاء الاصطناعي. توضح هذه السياسة أنواع البيانات الشخصية التي نقوم بجمعها، وكيفية استخدامها، ومدة الاحتفاظ بها، وحقوقك كمستخدم.
 البيانات التي نقوم بجمعها
 البيانات المخزنة فقط على جهازك
-
-
-الاسم والعمر — يتم إدخالهما أثناء بدء الاستخدام، ويُستخدمان لتخصيص تفسير الذكاء الاصطناعي. لا يتم إرسالهما إلى خوادمنا مطلقًا.
-
-
-سجل الأحلام — يتم حفظ جميع الأحلام والتفسيرات محليًا على جهازك باستخدام إطار عمل SwiftData من Apple. لا يمكننا الوصول إلى أحلامك.
-
-
-إعدادات التطبيق — مثل اللغة، الدولة، المفسر المفضل، ورصيد النقاط. يتم تخزينها محليًا باستخدام UserDefaults.
-
-
-البيانات التي تتم معالجتها عبر خدمات طرف ثالث
+يتم تخزين البيانات التالية محليًا على جهازك ولا يتم إرسالها إلى خوادمنا مطلقًا:
+الاسم والعمر — يتم إدخالهما أثناء الإعداد الأولي، ويُستخدمان فقط لتخصيص نتائج التفسير.
+سجل الأحلام — يتم حفظ جميع الأحلام وتفسيراتها محليًا باستخدام إطار عمل SwiftData الخاص بشركة Apple، ولا يمكننا الوصول إليها.
+إعدادات التطبيق — مثل اللغة، الدولة، المفسّر المفضل، ورصيد الاستخدام، ويتم حفظها محليًا عبر UserDefaults.
+البيانات التي تتم معالجتها عبر أطراف خارجية
 OpenAI (تفسير الأحلام)
-
-
-يتم إرسال نص الحلم إلى واجهة برمجة التطبيقات الخاصة بـ OpenAI لإنشاء التفسير.
-
-
-سياسة الخصوصية لـ OpenAI: https://openai.com/privacy
-
-
+يتم إرسال نص الحلم إلى واجهة برمجة التطبيقات الخاصة بـ OpenAI لتوليد التفسير، دون تضمين الاسم أو العمر أو أي معرّفات للجهاز.
+قد تحتفظ OpenAI بالبيانات لمدة تصل إلى 30 يومًا لأغراض مراقبة إساءة الاستخدام، ثم يتم حذفها.
+لا تُستخدم هذه البيانات لتدريب النماذج بشكل افتراضي.
+سياسة الخصوصية: https://openai.com/privacy
 Google AdMob (الإعلانات)
-
-
-قد يقوم AdMob بجمع معرّف الإعلانات الخاص بجهازك (IDFA) إذا منحت الإذن عبر نافذة App Tracking Transparency.
-
-
-في حال رفض التتبع، ستظل الإعلانات تظهر ولكن بدون تخصيص.
-
-
-سياسة الخصوصية لـ Google: https://policies.google.com/privacy
-
-
-Apple StoreKit (المشتريات داخل التطبيق)
-
-
-تتم جميع عمليات الشراء عبر Apple بالكامل. نحن نتلقى فقط تأكيدًا بحدوث عملية الشراء.
-
-
-سياسة الخصوصية لـ Apple: https://www.apple.com/legal/privacy
-
-
-
+قد يقوم AdMob بجمع معرّف الإعلانات الخاص بجهازك (IDFA) في حال منحت الإذن عبر ميزة الشفافية في تتبع التطبيقات (ATT).
+في حال رفض التتبع، ستستمر الإعلانات بالظهور ولكن دون تخصيص.
+لن تتأثر وظائف التطبيق.
+سياسة الخصوصية: https://policies.google.com/privacy
+Apple StoreKit (المشتريات والاشتراكات داخل التطبيق)
+تتم جميع عمليات الشراء والاشتراك بالكامل عبر Apple.
+نستلم فقط تأكيد إتمام العملية، ولا نقوم باستلام أو تخزين معلومات الدفع.
+تتم إدارة الاشتراكات وفق شروط Apple.
+سياسة الخصوصية: https://www.apple.com/legal/privacy
 البيانات التي لا نقوم بجمعها
-
-
-لا نقوم بجمع بريدك الإلكتروني أو إنشاء حسابات مستخدمين.
-
-
-لا نقوم بتخزين أحلامك على أي خادم.
-
-
-لا نقوم ببيع بياناتك لأي جهة.
-
-
-لا نستخدم أدوات تحليل أو تتبع الأعطال خارج ما توفره Apple.
-
-
-
-شفافية تتبع التطبيقات (ATT)
-عند تشغيل التطبيق لأول مرة، سيُطلب منك الإذن بتتبعك لأغراض إعلانية. يُستخدم ذلك من قبل Google AdMob لعرض إعلانات مخصصة. يمكنك:
-
-
-السماح — سيتم تخصيص الإعلانات بناءً على اهتماماتك.
-
-
-الرفض — ستظهر الإعلانات دون تخصيص. ولن يتأثر عمل التطبيق.
-
-
-يمكنك تغيير هذا الإعداد في أي وقت من خلال:
-الإعدادات → الخصوصية والأمان → التتبع
-
-المشتريات داخل التطبيق
-تتم معالجة عمليات الشراء عبر Apple وتخضع لشروطها. نستخدم إطار StoreKit الخاص بـ Apple ولا نقوم بتخزين أي معلومات دفع.
-
-خصوصية الأطفال
-هذا التطبيق غير موجه للأطفال دون سن 13 عامًا. ولا نقوم بجمع معلومات شخصية من الأطفال عن علم.
-
+لا نقوم بجمع عنوان بريدك الإلكتروني أو إنشاء حسابات مستخدمين.
+لا نقوم بتخزين أحلامك أو بياناتك الشخصية على أي خادم.
+لا نقوم ببيع أو تأجير أو مشاركة بياناتك الشخصية مع أطراف ثالثة لأغراض تسويقية.
+لا نستخدم أدوات تحليل خارجية أو أنظمة تتبع الأعطال خارج ما توفره Apple بشكل مدمج.
+الاحتفاظ بالبيانات
+نوع البيانات	مكان التخزين	مدة الاحتفاظ
+الاسم، العمر، الإعدادات	جهازك (UserDefaults)	حتى حذف التطبيق
+سجل الأحلام	جهازك (SwiftData)	حتى الحذف من داخل التطبيق أو إزالته
+نص الحلم المرسل إلى OpenAI	خوادم OpenAI	حتى 30 يومًا
+سجلات الشراء	خوادم Apple	وفق سياسات Apple
+معرّفات الإعلانات (إن تم السماح)	AdMob	وفق سياسات Google
+الشفافية في تتبع التطبيقات (ATT)
+عند تشغيل التطبيق لأول مرة، سيُطلب منك الإذن بالتتبع لأغراض الإعلانات عبر نظام Apple:
+السماح — عرض إعلانات مخصصة وفق اهتماماتك.
+الرفض — عرض إعلانات غير مخصصة، مع بقاء جميع ميزات التطبيق متاحة.
+يمكنك تعديل الإعداد في أي وقت من خلال:
+الإعدادات → الخصوصية والأمان → التتبع → احلامي AI
+المشتريات والاشتراكات داخل التطبيق
+يوفر التطبيق حزم أرصدة لمرة واحدة واشتراكًا شهريًا متجددًا تلقائيًا ("غير محدود").
+تتم جميع العمليات عبر Apple.
+يتم تجديد الاشتراك تلقائيًا ما لم يتم إلغاؤه قبل 24 ساعة من نهاية الفترة الحالية.
+يمكن إدارة الاشتراك أو إلغاؤه من:
+App Store → حسابك → الاشتراكات
 حقوقك
-يمكنك حذف جميع البيانات المخزنة محليًا في أي وقت من داخل التطبيق:
+البيانات على جهازك
+يمكنك حذف جميع البيانات المحلية في أي وقت:
 الإعدادات → البيانات → حذف جميع الأحلام المحفوظة
-كما أن حذف التطبيق يؤدي إلى إزالة جميع البيانات المخزنة محليًا من جهازك.
-
+أو عبر حذف التطبيق بالكامل
+البيانات لدى الأطراف الخارجية
+لممارسة حقوقك (الوصول، التصحيح، الحذف)، يُرجى الرجوع إلى سياسات الخصوصية الخاصة بـ OpenAI وGoogle.
+الحقوق وفق القوانين (مثل GDPR)
+إذا كنت ضمن نطاق الاتحاد الأوروبي أو أي منطقة تطبق قوانين حماية البيانات، فقد تتمتع بحقوق مثل:
+الوصول إلى بياناتك
+تصحيحها
+حذفها
+نقلها
+يمكنك التواصل معنا عبر البريد أدناه لممارسة هذه الحقوق.
+خصوصية الأطفال
+التطبيق مخصص للمستخدمين بعمر 4 سنوات فما فوق. لا نقوم عن قصد بجمع بيانات شخصية للأطفال دون 13 عامًا. في حال وجود ذلك، يرجى التواصل معنا لاتخاذ الإجراءات اللازمة.
+التعديلات على السياسة
+قد نقوم بتحديث هذه السياسة من وقت لآخر. سيتم إعلام المستخدمين بأي تغييرات جوهرية من خلال تحديث تاريخ "آخر تحديث". استمرار استخدام التطبيق بعد التعديلات يعني الموافقة عليها.
 التواصل
-إذا كان لديك أي استفسار بخصوص سياسة الخصوصية، يرجى التواصل عبر:
-info@reef-q.iq
+لأي استفسارات أو ملاحظات بخصوص هذه السياسة:
+البريد الإلكتروني: info@reef-q.iq
+تم تحديث هذه السياسة في أبريل 2026.
 
-قد يتم تحديث هذه السياسة من وقت لآخر. استمرارك في استخدام التطبيق بعد التحديث يُعد موافقة على السياسة الجديدة.
+
+
 
 
 
@@ -106,30 +85,35 @@ info@reef-q.iq
 
 ## Overview
 
-Dream Interpreter ("the App") is an Islamic dream interpretation app powered by AI. This policy explains what data we collect, how we use it, and your rights.
+احلامي AI ("the App") is an Islamic dream interpretation app powered by artificial intelligence. This policy explains what personal data we collect, how we use it, how long we keep it, and your rights as a user.
 
 ---
 
 ## Data We Collect
 
 ### Data stored only on your device
-- **Name and age** — entered during onboarding, used to personalise the AI interpretation. Never transmitted to our servers.
-- **Dream history** — all dreams and interpretations are saved locally on your device using Apple's SwiftData framework. We do not have access to your dreams.
-- **App settings** — language, country, preferred scholar, credit balance. Stored locally via UserDefaults.
+
+The following data is stored locally on your device and is never transmitted to our servers:
+
+- **Name and age** — entered during onboarding, used solely to personalise AI interpretations.
+- **Dream history** — all dreams and their interpretations are saved locally using Apple's SwiftData framework. We do not have access to your dreams.
+- **App settings** — language, country, preferred scholar, and credit balance. Stored locally via UserDefaults.
 
 ### Data processed by third-party services
 
 **OpenAI (dream interpretation)**
-- The text of your dream is sent to OpenAI's API to generate the interpretation.
+- The text of your dream is sent to OpenAI's API to generate an interpretation. No name, age, or device identifier is included in this request.
+- OpenAI may retain API inputs for up to 30 days for abuse monitoring purposes, after which they are deleted. They do not use API data to train their models by default.
 - OpenAI's privacy policy: https://openai.com/privacy
 
 **Google AdMob (advertising)**
-- AdMob may collect your device's advertising identifier (IDFA) if you grant permission via the App Tracking Transparency prompt.
-- If you deny tracking, AdMob will still show ads but they will not be personalised.
+- AdMob may collect your device's advertising identifier (IDFA) if you grant permission via the App Tracking Transparency (ATT) prompt.
+- If you deny tracking, AdMob will still display ads but they will not be personalised. App functionality is not affected.
 - Google's privacy policy: https://policies.google.com/privacy
 
-**Apple StoreKit (in-app purchases)**
-- Purchase transactions are handled entirely by Apple. We only receive confirmation that a purchase was made.
+**Apple StoreKit (in-app purchases & subscriptions)**
+- All purchase and subscription transactions are processed entirely by Apple. We only receive a confirmation that a transaction occurred; we do not receive or store payment card information.
+- Subscription billing is managed by Apple and governed by Apple's Terms of Sale.
 - Apple's privacy policy: https://www.apple.com/legal/privacy
 
 ---
@@ -137,48 +121,74 @@ Dream Interpreter ("the App") is an Islamic dream interpretation app powered by 
 ## Data We Do NOT Collect
 
 - We do not collect your email address or create user accounts.
-- We do not store your dreams on any server.
-- We do not sell your data to anyone.
-- We do not use analytics SDKs or crash reporting tools beyond what Apple provides.
+- We do not store your dreams or personal information on any server.
+- We do not sell, rent, or share your personal data with third parties for marketing purposes.
+- We do not use third-party analytics SDKs or crash reporting tools beyond what Apple provides natively.
+
+---
+
+## Data Retention
+
+| Data | Where stored | Retention |
+|------|-------------|-----------|
+| Name, age, settings | Your device (UserDefaults) | Until you delete the app |
+| Dream history | Your device (SwiftData) | Until you delete them in-app or uninstall |
+| Dream text sent to OpenAI | OpenAI servers | Up to 30 days (OpenAI policy) |
+| Purchase records | Apple servers | Governed by Apple's policies |
+| Ad identifiers (if permitted) | AdMob | Governed by Google's policies |
 
 ---
 
 ## App Tracking Transparency (ATT)
 
-On first launch the app will ask for permission to track you for advertising purposes. This is used by Google AdMob to show personalised ads. You can:
+On first launch, the App will ask for permission to track you for advertising purposes via Apple's App Tracking Transparency framework. This is used by Google AdMob to show personalised ads. You can:
+
 - **Allow** — ads will be personalised based on your interests.
-- **Deny** — ads will still appear but will not be personalised. App functionality is not affected.
+- **Deny** — ads will still appear but will not be personalised. All app features remain fully accessible.
 
-You can change this at any time in **Settings → Privacy & Security → Tracking**.
-
----
-
-## In-App Purchases
-
-Purchases are processed by Apple and subject to Apple's terms. We use Apple's StoreKit framework and do not store payment information of any kind.
+You can change this permission at any time: **Settings → Privacy & Security → Tracking → احلامي AI**
 
 ---
 
-## Children's Privacy
+## In-App Purchases and Subscriptions
 
-This app is not directed at children under 13. We do not knowingly collect personal information from children.
+The App offers one-time credit packs and an auto-renewable monthly subscription ("Unlimited"). Purchases are processed by Apple and subject to Apple's Terms of Sale. We do not store any payment information.
+
+- Auto-renewable subscriptions will automatically renew unless cancelled at least 24 hours before the end of the current billing period.
+- You can manage or cancel your subscription at any time: **App Store → Your Account → Subscriptions**
 
 ---
 
 ## Your Rights
 
-You can delete all locally stored data at any time from within the app:
-**Settings → Data → Delete All Saved Dreams**
+**Data on your device:** You can delete all locally stored data at any time:
+- **Settings → Data → Delete All Saved Dreams** removes all dream history.
+- Uninstalling the App removes all locally stored data from your device.
 
-Uninstalling the app removes all locally stored data from your device.
+**Data held by third parties:** To exercise rights (access, correction, deletion) over data processed by OpenAI or Google, please refer to their respective privacy policies linked above.
+
+**GDPR / regional rights:** If you are located in the European Economic Area or another jurisdiction with applicable data protection laws, you may have rights including access to your data, correction of inaccuracies, erasure, and data portability. Contact us at the address below to exercise these rights.
+
+---
+
+## Children's Privacy
+
+This App is rated for users aged 4 and above. We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through the App, please contact us and we will take steps to delete it.
+
+---
+
+## Changes to This Policy
+
+We may update this policy from time to time. We will notify users of material changes by updating the "Last updated" date above. Continued use of the App after changes constitutes acceptance of the revised policy.
 
 ---
 
 ## Contact
 
-If you have questions about this privacy policy, please contact:
-**info@reef-q.iq**
+If you have questions or concerns about this privacy policy or your data, please contact:
+
+**Email:** info@reef-q.iq
 
 ---
 
-*This policy may be updated from time to time. Continued use of the app after changes constitutes acceptance of the new policy.*
+*This privacy policy was last updated in April 2026.*
